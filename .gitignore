@@ -1,0 +1,17 @@
+_build.*
+.sconsign.dblite
+.sconf_temp
+*.dylib
+*.o
+*.os
+*.pyc
+*.so
+.DS_Store
+python/.DS_Store
+python/lsst/.DS_Store
+python/lsst/obs/.DS_Store
+python/lsst/obs/generic/.DS_Store
+config.log
+tests/.tests
+ups/*.cfgc
+version.py
